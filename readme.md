@@ -6,6 +6,12 @@ The application constructs a network of LLM-powered AI agents that autonomously 
 
 The core of this implementation involves enabling AI agents to utilize open-source Python libraries and tools. To solve FEA or CFD problems, we need tools to script the geometry, solve it using numerical algorithms, and visualize the results. Libraries like gmsh, a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities, are used to create geometry or meshes. FEniCS, an open-source computing platform for solving partial differential equations (PDEs), is employed to formulate and run numerical simulations. For visualization, matplotlib is used for 2D geometries and pyvista for 3D geometries. Additional required libraries are listed in the requirements.txt.
 
+Here is what the application looks like.
+
+![Main Application UI](https://github.com/karthik-codex/autogen_FEA/blob/f430905aba340df3fca4579de940f15ce19dc3d5/Article%202%20-%20Mech%20Agents/chat_example.png)
+
+![Example Use Cases](https://github.com/karthik-codex/autogen_FEA/blob/f430905aba340df3fca4579de940f15ce19dc3d5/Article%202%20-%20Mech%20Agents/example_results.png)
+
 ## Useful Links 🔗
 
 - **Medium Article:** Engineering with Next-Gen AI: Autonomous LLM Agents Solving Solid Mechanics & Fluid Dynamics [Medium.com](https://medium.com/@karthik.codex/autonomous-llm-agents-solving-solid-mechanics-fluid-dynamics-496cedf96073?source=friends_link&sk=85a2ed7a060aa5613907b5f1b15a1e39) 📚

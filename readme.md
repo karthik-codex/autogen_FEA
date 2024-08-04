@@ -1,6 +1,6 @@
 # Conversational Multi-Agent AI Chatbot for Engineering Simulations using AutoGen + GPT-4o + Chainlit UI
 
-![Graphical Abstract][(Article 2 - Mech Agents/graphical abstract1.png)](https://github.com/karthik-codex/autogen_FEA/blob/6a54e3085f4ea2f7edc346a2c257cb5d8a4bcca2/Article%202%20-%20Mech%20Agents/graphical%20abstract1.png)
+![Graphical Abstract](https://github.com/karthik-codex/autogen_FEA/blob/6a54e3085f4ea2f7edc346a2c257cb5d8a4bcca2/Article%202%20-%20Mech%20Agents/graphical%20abstract1.png)
 
 The application constructs a network of LLM-powered AI agents that autonomously create models and simulate problems in solid mechanics and fluid dynamics with minimal human input. The framwork consists of a team of conversational agents using Microsoft AutoGen, each a specialist in roles like planning, problem formulation, writing, debugging and executing codes, plotting and analysis, and result critique. They will work autonomously, correcting each other as needed to create and simulate FEA and CFD models using open-source Python libraries. OpenAI's GPT-4 is the powerhouse behind this. The framework is wrapped within a user interface using the Chainlit app.
 

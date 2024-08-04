@@ -1,0 +1,8 @@
+pyautogen
+chainlit
+matplotlib
+numpy
+pyvista
+gmsh
+meshio
+h5py
